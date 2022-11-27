@@ -25,10 +25,14 @@ New system i use google site to create the website. It very easy to use because 
  
 # Interface Website
 
+- Home Page
 ![structure](./image/homepage.png)
 
+- Booking Calendar
 ![structure](./image/booking_calendar.png)
 
+- Online Booking Form
 ![structure](./image/online_booking_form.png)
 
+- Collect data in Spreadsheets
 ![structure](./image/data_collect_in_spreadsheets.png)

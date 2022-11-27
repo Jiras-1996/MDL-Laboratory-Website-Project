@@ -4,6 +4,8 @@ In the old system my laboratory has use paper to collect a data. It’s not conv
 
 New system i use google site to create the website. It very easy to use because google developer has create this solution for non-programmer, you can create website with low-coding tool.
 
+See My Laboratory Website [click](https://sites.google.com/g.swu.ac.th/mdllaboratory-med-swu/%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%81?authuser=2)
+
 # Tools :
 
 - Google Site
